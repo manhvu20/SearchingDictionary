@@ -1,7 +1,7 @@
 # SearchingDictionary
 This is my project: Searching Dictionary using C++ language and Visual Studio 2022
 
-My research project is Searching in Dictionary using C++. I have done almost the requirements that the project need. Only the last requirement I didn't get enough time so I couldn't code in time. But I'm very pleased to so you what my project can do.
+My research project is Searching in Dictionary using C++. I have done almost the requirements that the project need. Only the last requirement I didn't get enough time so I couldn't code in time. But I'm very pleased to show you what my project can do.
 
 Here's my research theme: Tra cứu từ điển: tổ chức từ điển theo cấu trúc danh sách liên kết kép . Mỗi từ gồm có các
 thông tin: Từ, loại từ, các nghĩa việt (theo cấu trúc danh sách tuyến tính, tối đa có 5 nghĩa
